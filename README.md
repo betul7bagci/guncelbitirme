@@ -7,6 +7,7 @@ Bitirme projemi Bursa Büyükşehir Belediyespor Kulübüyle ilgili yaptım. Bur
 Projemde Açık Yeşil Platformundaki 2 veri setinden faydalandım;
 1-Spor Dalları
 2-Spor Tesisleri
+3- JS dosyası olarak kullandığım Spor Tesisi Kullanım Sayıları
 
 Ayrıca projemde yararlandığım kütüphaneler;
 -Bootstrap
